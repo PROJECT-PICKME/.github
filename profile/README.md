@@ -9,15 +9,14 @@
 
 ---
 ### ERD
-![image](https://github.com/user-attachments/assets/320ecb0f-1e8d-406a-96ca-add6a74b737a)
-
+<img width="1105" alt="image" src="https://github.com/user-attachments/assets/e631b10a-d22c-492a-ba85-3bbd759a0a29">
 
 ### 개발 산출물
 
 |문서 종류| 링크 |
 |:--:|:--:|
 |피그마|[피그마 링크](https://www.figma.com/design/5t2wyrsTCNVLYlXcoPsmFw/2%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8?node-id=0-1&node-type=CANVAS&t=jBr2Avh2G31RMTFp-0)|
-|API 문서||
+|API 문서|[API 문서](https://wealthy-quokka-a86.notion.site/API-110d03fe364080299bddde81e39ac09b?pvs=4)|
 |ERD|[ERDCloud 링크](https://www.erdcloud.com/d/ipmxoh7CYc75MjNY4)|
 |기능 명세서|[기능 명세서 링크](https://www.notion.so/883154a1867f458e86db2922452fd29c)|
 |클래스 다이어그램||
