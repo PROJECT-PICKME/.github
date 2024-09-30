@@ -19,7 +19,7 @@
 |API 문서|[API 문서](https://wealthy-quokka-a86.notion.site/API-110d03fe364080299bddde81e39ac09b?pvs=4)|
 |ERD|[ERDCloud 링크](https://www.erdcloud.com/d/ipmxoh7CYc75MjNY4)|
 |기능 명세서|[기능 명세서 링크](https://www.notion.so/883154a1867f458e86db2922452fd29c)|
-|클래스 다이어그램||
+|위키 문서|[WIKI](https://github.com/SYSONE-PICKME/PICKME/wiki)|
 
 ### 👿Commit Convention
 ```
